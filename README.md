@@ -19,7 +19,7 @@ This is the project I did in my 4th semester at the University of Moratuwa. The 
 
 
 ### PCB Design
- - The PCB_Design directory contains the PCB design files, which include:
+ - The "PCB design files" directory contains the PCB design files, which include:
 
    - Schematic diagram
    - PCB layout
@@ -50,7 +50,7 @@ This is the project I did in my 4th semester at the University of Moratuwa. The 
 
 
 ### Enclosure Design
-- The Enclosure_Design directory holds the enclosure design files, including:
+- The "Enclosure design files" directory holds the enclosure design files, including:
 
   - Top and bottom parts.
   - Encoder wheel, pole, and knob for user input.
@@ -58,7 +58,7 @@ This is the project I did in my 4th semester at the University of Moratuwa. The 
 
 
 ### Code
-- Developed using Arduino IDE.
+- Developed using Arduino IDE, code is in the "Arduino code" directory.
 - Focus on menu display and function calls based on user input.
 - Separate function implementations for laser sensor, encoder wheel, angle measurement, and battery level indication.
 
